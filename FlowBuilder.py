@@ -1,6 +1,6 @@
 import tkinter as tk
 import winsound
-#test
+#test2
 # ---------------------- CONFIG ----------------------
 MAX_WORK_MINUTES = 25
 MAX_BREAK_MINUTES = 10
