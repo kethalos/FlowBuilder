@@ -5,9 +5,13 @@ Flow Builder is a simple, customizable, and mindful productivity timer designed 
 
 
 Features
+
 Customizable Timers – Start each session with configurable work and break durations (default: 5 mins each).
+
 Daily Goal Tracking – Set a session target in hours and minutes (default: 8 hours) and track your progress visually.
+
 Progressive Focus Cycles – Timer duration adapts based on self-rated focus from the last session:
+
 	1: Distracted → shorter next session
 	2: Okay → same length
 	3: Focused → longer session
